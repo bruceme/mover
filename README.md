@@ -1,6 +1,6 @@
 # MOVER
 
-Exclusively Solar mowing rover... look ma' no batteries!
+Pronouinced "Mow"-"Ver"; an exclusively solar mowing rover... look ma' no batteries!
 
 # WHY?!
 
