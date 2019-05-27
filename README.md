@@ -9,13 +9,18 @@ I want a 100% autonimous non-stupid set-it-forget-it power that I didn't have to
 #Technology
 
 - Old beat up Power Chair, preferably without batteries.
+- Two Hedge Trimmers
 - Raspbery Pi 3 A+ main board
 - Adafruit GPS HAT
 - H-Bridge to power the motors
 
 #Steps
 
-1 - Build the chair
-2 - Build the controller
-3 - Programming
-4 - Do anything except worry about your lawn
+* Build the chair
+* Build the controller
+* Programming
+* Do anything except worry about your lawn
+
+# Current status
+
+I've got the chair, got the pi, assembling
