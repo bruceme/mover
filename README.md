@@ -4,7 +4,7 @@ Pronouinced "Mow"-"Ver"; an exclusively solar mowing rover... look ma' no batter
 
 # WHY?!
 
-I want a 100% autonimous non-stupid set-it-forget-it power that I didn't have to babysit, watch, push, tow or remote into.  Setup the parimeter and let it do its thing so long as the sun is shining and the good Lord is willing!
+I want a 100% autonimous non-stupid set-it-forget-it bulk grass cutting device that I didn't have to babysit, watch, push, tow or remote into.  Setup the parimeter and let it do its thing so long as the sun is shining and the good Lord is willing!
 
 # Technology
 
